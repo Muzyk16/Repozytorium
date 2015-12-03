@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #include <cblas.h>
   #include <stdio.h><head></head>
+=======
+#include <cblas.h>  ///afagadgadgdagadgadg
+  #include <stdio.h>
+>>>>>>> 02df1c6e9130119c657c6360ca9081201316c97e
   #include <stdlib.h>
 
  #define LDA 7
