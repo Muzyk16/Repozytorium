@@ -1,5 +1,5 @@
 #include <cblas.h>
-  #include <stdio.h><head></head>
+  #include <stdio.h>
   #include <stdlib.h>
 
  #define LDA 7
